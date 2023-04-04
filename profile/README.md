@@ -6,6 +6,9 @@ MealUp is a highschool project made for a school project exhibition. <br /><br /
 + [scratch prototype](https://scratch.mit.edu/projects/830673710)
 + [landing page](https://mealup.github.io/landing-page/)
 + [school onedrive folder](https://iismarconi-my.sharepoint.com/:f:/g/personal/dossi_massimo_04_itisdalmine_edu_it/EvEkm8E-F0tCuWAg9WULIBQBA0KCg_pqJAp5XN9jSEBAxw?e=z3lvcx)
-<br />
-https://user-images.githubusercontent.com/49374334/229768508-b77a44bd-f4e5-4377-a5bd-f9026d9093f7.mp4
+
+
+
+
+https://user-images.githubusercontent.com/49374334/229768952-8e4b3f00-96f8-4c6c-9f1c-99bef0a9ee44.mp4
 
