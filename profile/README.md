@@ -1,4 +1,4 @@
-# Read Me
+# MealUp 🍔
 MealUp is a highschool project made for a school project exhibition. <br /><br />
 **Our links:**
 + [tablet prototype](https://www.figma.com/proto/lxMVEnkj5koujXieTBxVr6/MealUp---mockup?node-id=120-94&scaling=scale-down&page-id=0%3A1&starting-point-node-id=120%3A94&hide-ui=1)
