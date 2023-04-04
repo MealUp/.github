@@ -1,12 +1,8 @@
-prova
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Read Me
+MealUp is a highschool project made for a school project exhibition. <br /><br />
+**Our links:**
++ [tablet prototype](https://www.figma.com/proto/lxMVEnkj5koujXieTBxVr6/MealUp---mockup?node-id=120-94&scaling=scale-down&page-id=0%3A1&starting-point-node-id=120%3A94&hide-ui=1)
++ [smartphone prototype](https://www.figma.com/proto/lxMVEnkj5koujXieTBxVr6/MealUp---mockup?node-id=49-23&scaling=scale-down&page-id=7%3A3&starting-point-node-id=49%3A23&hide-ui=1)
++ [scratch prototype](https://scratch.mit.edu/projects/830673710)
++ [landing page](https://mealup.github.io)
++ [school onedrive folder](https://iismarconi-my.sharepoint.com/:f:/g/personal/dossi_massimo_04_itisdalmine_edu_it/EvEkm8E-F0tCuWAg9WULIBQBA0KCg_pqJAp5XN9jSEBAxw?e=z3lvcx)
